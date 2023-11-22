@@ -5,7 +5,8 @@ public class HelloTjoeun {
 		String str = "1.낙자쌤"
 				+ "2.낙짜쌤"
 				+ "3-1. 박희성"
-				+ "3-3.성유겸";
+				+ "3-3.성유겸"
+				+ "4.홍길동";
 	
 		System.out.println(str);
 	}
