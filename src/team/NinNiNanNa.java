@@ -1,10 +1,11 @@
 package team;
 
-public class Minseok3 {
+public class NinNiNanNa {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("민석.");
+		// TODO Auto-generated method stub
+		
 	}
-
+	
 }
