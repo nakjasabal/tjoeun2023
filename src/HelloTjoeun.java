@@ -2,8 +2,9 @@
 public class HelloTjoeun {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		String str = "1.낙자쌤";
+		
+		System.out.println(str);
 	}
 
 }
