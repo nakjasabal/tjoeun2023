@@ -4,7 +4,7 @@ public class Nakja {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("ddd");
+		System.out.println("낙자쌤");
 	}
 
 }
