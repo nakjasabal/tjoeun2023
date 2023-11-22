@@ -13,5 +13,5 @@ public class HelloTjoeun {
 				+" 7 커밋앤푸시(민석_)";
 		System.out.println(str);
 	}
-
+	
 }
