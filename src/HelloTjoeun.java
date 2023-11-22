@@ -10,6 +10,7 @@ public class HelloTjoeun {
 				+ "4-1.홍길동"
 				+ "4-5.김예슬"
 				+ "6.이순신";
+				+" 7 커밋앤푸시(민석_)"
 		System.out.println(str);
 	}
 
