@@ -12,6 +12,7 @@ public class HelloTjoeun {
 				+ "6.이순신"
 				+ "7. 커밋앤푸시(민석_)"
 				+ "5.김예슬2"
+				+ "5-1. 김소진 키키키키키키키키"
 				+ "6.이순신";
 		
 		System.out.println(str);
