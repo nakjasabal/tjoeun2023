@@ -1,9 +1,9 @@
 package team;
 
-public class Minseok2 {
+public class Minseok3 {
 
 	public static void main(String[] args) {
-		System.out.println();
+		// TODO Auto-generated method stub
 
 	}
 
