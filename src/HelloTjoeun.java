@@ -6,7 +6,10 @@ public class HelloTjoeun {
 				+ "2.낙짜쌤"
 				+ "3-1. 박희성"
 				+ "3-3.성유겸"
-				+ "4.홍길동";
+				+ "4.강이화"
+				+ "4-1.홍길동";
+
+
 	
 		System.out.println(str);
 	}
